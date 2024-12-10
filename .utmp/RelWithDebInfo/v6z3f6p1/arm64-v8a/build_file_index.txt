@@ -1,0 +1,2 @@
+/home/panocca/UnityProjects/DSJlab08Propuesto/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/home/panocca/UnityProjects/DSJlab08Propuesto/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
